@@ -1,0 +1,19 @@
+Line Item,Quantity,Reference Designators,Manufacturer,Manufacturer P/N,Vendor,VPN,Description,Value
+1,2,"C1, C2",Vishay,K104K15X7RF53H5,Tayda,A-5459,0.1UF 50V MULTILAYER MONOLITHIC CERAMIC CAPACITOR X7R VISHAY BEST PERFORMANCE,10u
+2,10,"C3, C4, C5, C6, C7, C8, C9, C10, C11, C12",TDK,FG18X7R1H104KNT06Ê,Mouser,810-FG18X7R1H104KNT06,Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.1uF X7R 10% LS:2.5mm,100n
+3,2,"D1, D2",EIC,1N4001,Tayda,A-162,1N4001 DIODE 1A 50V,1N4001
+4,2,"D3, D4",STMicroelectronics,1N5711,Mouser,511-1N5711,Schottky Diodes & Rectifiers 15mA 70 Volt,1N5711
+5,2,"FB1, FB2",Fair-Rite,2743001111,Mouser,623-2743001111,Ferrite Beads 43 BEAD ON LEAD Z=68 OHM @ 100MHz,68R
+6,5,"J1, J2, J4, J5, J6",enzhou QingPu,PJ302M,Thonk,MECH_JK_PJ302M,"Right angled 3.5mm Jack Sockets w/Knurled Nuts, No Washers","In1, In2, SumOut, VertOut, DubOut"
+7,1,J3,Wurth Elektronik,61201021621,Mouser,710-61201021621,Headers & Wire Housings WR-BHD 2.54mm Box 10Pin Male Straight,Europower
+8,2,"R1, R9",KOA Speer,MF1/4DCT52R4991F,Mouser,660-MF1/4DCT52R4991F,Metal Film Resistors - Through Hole 1/4W 4.99K ohm 1%,4.99K
+9,5,"R2, R5, R17, R21, R22",KOA Speer,MF1/4DCT52R1002F,Mouser,660-MF1/4DCT52R1002F,Metal Film Resistors - Through Hole 10Kohms 1% 100PPM,10K
+10,2,"R3, R4",KOA Speer,MF1/4DCT52R1003F,Mouser,660-MF1/4D52R1003F,Metal Film Resistors - Through Hole 100Kohms 1% 100PPM,100K
+11,1,R6,KOA Speer,MF1/4DCT52R2002F,Mouser,660-MF1/4DCT52R2002F,Metal Film Resistors - Through Hole 20Kohms 1% 100PPM,20K
+12,6,"R7, R8, R23, R28, R31, R34",KOA Speer,MF1/4DCT52R4990F,Mouser,660-MF1/4DCT52R4990F,Metal Film Resistors - Through Hole 1/4W 499 ohm 1% 500 OHM 1%,499R
+13,20,"R10, R11, R12, R13, R14, R15, R18, R19, R20, R24, R25, R26, R27, R29, R30, R32, R33, R35, R36, R37",Royal OHM,MF0W4FF1001A50,Tayda,A-2200,1K OHM 1/4W 1% METAL FILM RESISTOR ROYAL OHM TOP QUALITY,1K
+14,1,R16,KOA Speer,MF1/4DCT52R2492F,Mouser,660-MF1/4DCT52R2492F,,24.9K
+15,2,"RV1, RV2",-,-,Thonk,Mech_Pot_Alpha,Right Angle B10K Alpha 9mm Potentiometer,B10K
+16,1,U1,Texas Instruments,TL431BQLPR,Mouser,595-TL431BQLPR,Voltage References Adjustable Precision Shunt Regulator,TL431
+17,4,"U2, U3, U4, U6",Texas Instuments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB,"High Speed Operational Amplifiers Dual High Speed,Low Pwr Amp",LM6172
+18,1,U5,Texas Instruments,TL074CN,Mouser,595-TL074CN,Operational Amplifiers - Op Amps JFET Input Low Noise,TL074
